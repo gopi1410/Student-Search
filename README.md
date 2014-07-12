@@ -12,6 +12,6 @@ Well, so IITK students must be wondering why this now, when I already had made a
  
  - Student data cannot be selected by selecting them normally by cursor (maybe to prevent the copying of mailing lists)
  
- - If you want to search for a single student given his email id or roll number, you dont have to enter in the text box, **search directly via url, like http://h4ckcod3r.in/student_search/search/10585 or http://h4ckcod3r.in/student_search/search/gopi** Time saviour!
+ - If you want to search for a single student given his email id or roll number, you dont have to enter in the text box, **search directly via url, like http://..../search/10585 or http://..../search/gopi** Time saviour!
  
  - Dynamic search, see the results as you type.
